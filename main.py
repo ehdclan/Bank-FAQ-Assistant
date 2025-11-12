@@ -4,12 +4,40 @@ import os
 
 load_dotenv()
 
+def read_bank_policies():
+    try:
+        with open("group_bank_policies.txt", "rb") as file:
+            binary_content = file.read()
+            
+        try:
+            content = binary_content.decode('utf-8')
+        except UnicodeDecodeError:
+                
+            content = binary_content.decode('utf-8', errors='replace')
+            print("Some characters were replaced due to encoding issues")
+            
+        print(f"File read successfully ({len(content)} characters)")
+        return content
+            
+    except FileNotFoundError:
+        print("Error: group_bank_policies.txt file not found!")
+        return None
+    except Exception as e:
+        print(f"Error reading file: {e}")
+        return None
+
 def AI_Assistant():
     assistant = AzureOpenAI(
         api_version="2024-12-01-preview",
         azure_endpoint="https://ugoch-mhrmec5e-eastus2.cognitiveservices.azure.com/",
         api_key=os.getenv("API_KEY"),
     )
+
+    bank_policies = read_bank_policies()
+    
+    if bank_policies is None:
+        print("Could not read bank policies file. Exiting.")
+        return
 
     user_input = input("What would you like to know? Ask Here: ")
 
