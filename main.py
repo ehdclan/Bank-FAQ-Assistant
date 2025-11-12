@@ -39,7 +39,7 @@ def AI_Assistant():
         print("Could not read bank policies file. Exiting.")
         return
 
-    user_input = input("What would you like to know? Ask Here: ")
+    user_input = input("What would you like to know about using Wema Bank? Ask Here: ")
 
     prompt = f'''
         User Question: {user_input}
@@ -59,9 +59,15 @@ def AI_Assistant():
     response = assistant.chat.completions.create(
             model = "gpt-4o-mini",
             messages=[
-                {"role": "system", "content": f"You are a helpful banking FAQ assistant for Wema Bank. "
-                "Always address users as 'Mandem' and be polite. Context: {bank_policies}"},
-                {"role": "user", "content": prompt}
+                {
+                    "role": "system",
+                    "content": f"You are a helpful banking FAQ assistant for Wema Bank. "
+                "Always address users as 'Mandem' and be polite. Context: {bank_policies}"
+                },
+                {
+                    "role": "user",
+                    "content": prompt
+                }
             ],
             temperature=0,
             max_tokens=1000,
