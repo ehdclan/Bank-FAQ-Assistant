@@ -67,7 +67,7 @@ def AI_Assistant():
             max_tokens=1000,
         )
 
-    print("AI Assistant Response:", response.choices[0].message.content)
+    print(response.choices[0].message.content)
 
 if __name__ == "__main__":
     AI_Assistant()
