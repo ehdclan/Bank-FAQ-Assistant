@@ -1,0 +1,113 @@
+Wema Bank & ALAT FAQs
+Compiled comprehensively from official sources including wemabank.com, alat.ng, and support portals (as of November 2025). FAQs are categorized for clarity. This covers general banking, ALAT digital services, loans, cards, business banking, and more. For personalized assistance, contact support below. Note: Terms may update; verify via the ALAT app or website.
+1. General ALAT & Account FAQs
+
+What is ALAT?
+ALAT by Wema is Wema Bank’s fully Digital Banking Platform that allows you to conduct all your banking transactions without ever having to visit any physical branch. ALAT is built from scratch to be entirely digital, making all banking services available to you anywhere you can access the internet. In comparison, a banking app only offers some banking services (typically airtime purchases, bill payments, and transfers).
+Who can use ALAT?
+Everyone! You simply need to get registered on a smartphone.
+How much does it cost to get ALAT?
+ALAT is free to sign up on.
+Which mobile platforms are supported by the ALAT Application?
+The ALAT app is currently supported on all iOS and Android devices. Please visit your Google Play Store or App Store to download the application.
+How do I open an ALAT account without going to a bank?
+You can open an ALAT account right from your phone. Download the app, provide your BVN and valid ID (e.g., NIN, driver's license, or international passport), and complete verification.
+How do I create a savings goal on ALAT?
+Log in to the ALAT app, navigate to the Savings or Goals section, select "Create Goal," choose a variant (e.g., Fixed Goal for daily/weekly/monthly savings with no withdrawals), set your target amount, and confirm. Goals are available for tier three savings and current account holders. There are 3 variants: Fixed Goal (no withdrawals), Flexible Goal (limited access), and Target Goal (custom timelines).
+How do I pay my bills on ALAT?
+Log in to the ALAT app, click the Airtime & Bills menu option, then Bill Payment. Pick a service provider or bill category, type your customer ID, pick a bill item (default amounts display for some providers), and confirm with your PIN.
+How do I request my ALAT debit card?
+Click the Cards menu option in the app, swipe to pick your favorite card design, confirm with your ALAT PIN, type your delivery address, and click Submit. Your card will be delivered in two business days.
+How do I change my ALAT password?
+In the app, go to Settings > Security > Change Password, enter your current password, set a new one (strong: 8+ characters with mix of letters/numbers/symbols), and confirm.
+To operate my account, what options do I have?
+Use your smartphone via the ALAT app or revert to the *945# USSD banking code for basic transactions.
+
+2. ALAT Loans FAQs
+
+What is an ALAT Salary Loan?
+A quick, unsecured loan for salaried individuals with employers enlisted with Wema/ALAT. Access up to ₦4M based on salary, with repayment tied to inflows.
+I am a business owner; can I access this facility?
+No, it's for salaried employees only. Self-employed or business owners should explore SME or personal loans.
+What is the maximum and minimum amount I can access?
+Minimum ₦50,000; maximum ₦4,000,000, based on credit score and income.
+I don't have an account with Wema Bank; can I still apply?
+Yes, but approval is faster for existing customers. Open an ALAT account first via the app.
+Does the loan require collateral?
+No, it's unsecured for eligible salary earners.
+Am I eligible for a loan?
+To determine eligibility, our lending partners run a quick credit check when you make a loan request. Factors include BVN-linked history, income proof, and risk score.
+
+3. ALAT Cards & Virtual Cards FAQs
+
+I misplaced my card; how do I block it?
+Log in to the ALAT app, go to Cards > Select card > Block Card, or call 07000PURPLE immediately.
+My card is not working on POS; what is wrong?
+Check balance, ensure chip/contactless is enabled, or contact support if declined (common issues: insufficient funds or temporary network glitch).
+The error message while using my card says "issuer offline"; what does it mean?
+Temporary network issue with the bank; retry in 5-10 minutes or use app for contactless if available.
+What is the Virtual Dollar Card?
+A non-physical dollar-denominated card for online payments. Created on the ALAT app and funded with dollars converted from Naira at the current bank rate. Funds can be liquidated back to your account post-use.
+Can I use my Virtual Dollar Card for money transfers?
+No, it's for online purchases only, not transfers or ATM/POS.
+Where can I use my virtual card?
+On all websites and apps that accept dollar cards. You cannot use it on ATMs, POS terminals, or sites requiring 3D Secure authentication.
+I am not a Wema bank customer; can I get a prepaid card?
+Yes, open an ALAT account first.
+Can I use my Wema prepaid card outside the country?
+Yes, for international transactions where Visa/Mastercard is accepted.
+
+4. ALAT for Business FAQs
+
+What is ALAT for Business?
+Wema Bank's revamped Corporate Internet Banking platform for businesses and SMEs to manage accounts, transactions, and finances online from anywhere.
+Which businesses can sign up on ALAT for Business?
+All registered businesses, including SMEs and corporates with a Wema account.
+How can I sign up on ALAT for Business?
+Self On-boarding (Web Only): Launch business.alat.ng, click Sign-up, select profile type (single or multiple signatory), enter account number, and verify with OTP sent to email/phone.
+How to reset your ALAT for Business password on the website?
+Launch business.alat.ng, click Forgot Password, enter username, continue, and set new password.
+How to check my recent transactions on ALAT for Business?
+Log in, from dashboard select account, click Recent Activities or Transaction History.
+Can I request a debit card for my business on ALAT for Business?
+Yes, via the app under Cards section for business accounts.
+Can I make offshore transfers using ALAT for Business?
+Yes, up to regulatory limits (e.g., $50,000/month for most).
+What is the maximum amount I can transfer overseas using ALAT for Business?
+Subject to CBN limits: Up to $10,000 per transaction, $50,000 monthly for eligible accounts.
+What is OUTLET BY ALAT?
+An e-commerce platform for businesses to sell online via ALAT.
+Who can sell on OUTLET BY ALAT?
+Any ALAT for Business user with inventory.
+Must I have an ALAT account to perform transactions on OUTLET BY ALAT?
+Yes, for seamless payments.
+
+5. Security & Support FAQs
+
+How is my money insured on ALAT?
+Every deposit is insured by the Nigeria Deposit Insurance Corporation (NDIC).
+What security measures does ALAT use?
+PCI-DSS certified for card transactions; proprietary screening for fraud, money laundering, and sanctions; 24/7 monitoring by Fraud Protection Teams; multi-factor authentication (OTP/PIN).
+What if I suspect fraud?
+Report immediately via app (separate channel), call helpline, or email. Accounts are frozen pending investigation; no liability if reported promptly.
+
+6. Promotions & Incentives FAQs (from alat.ng)
+
+Are there other incentives?
+Yes, weekly giveaways: 50 customers rewarded with ₦5,000 for funding accounts.
+How many winners will be selected monthly?
+120 winners via electronic draws (2 win ₦1M each, 8 domiciliary customers win ₦250,000 each).
+What are the benefits of this subscription?
+Unlimited medical consultations via toll-free number; access to affordable healthcare services.
+
+More: Contact & Support
+
+Helpline: 07000PURPLE (0700-078-7753) or +234-803-900-3700 / +234-01-277-7700-9.
+Email:purpleconnect@wemabank.com or help@alat.ng.
+WhatsApp/Chat: 09044411010.
+USSD: *945# for quick access.
+Social: @wemabank & @alat_ng on X, Instagram, Facebook, TikTok.
+Support Portal: purpleconnect.wemabank.com (submit tickets, check status).
+Recent Updates (Nov 2025): Enhanced PAPSS for cross-border payments on ALAT app; improved currency conversion displays; ongoing FGN/ALAT Digital Skillnovation for MSMEs (training 1M+ businesses in digital skills).
+
+For full details or unresolved queries, download the ALAT app or visit wemabank.com/alat. ALAT serves 36 states with 250,000+ users and ₦1.6B+ deposits as of recent reports
